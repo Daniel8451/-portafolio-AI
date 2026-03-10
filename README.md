@@ -87,7 +87,7 @@ portafolio/
 Puedes ver el portafolio funcionando aquí:
 
 ```
-https://github.com/Daniel8451/portafolio-ia
+https://github.com/Daniel8451/-portafolio-AI
 ```
 
 ---
